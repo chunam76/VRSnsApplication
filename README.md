@@ -1,2 +1,2 @@
-# XRProject
-XRProject
+# VR SSNS Application
+VR SSNS Application
