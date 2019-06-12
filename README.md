@@ -1,2 +1,2 @@
-# VR SSNS Application
-VR SSNS Application
+# VR SNS Application
+VR SNS Application
